@@ -8,7 +8,7 @@
 # Indice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Relatorio dos testes rodando no allure](#-relatorio-dos-testes-rodando-no-allure)
+- [Teste rodando no JMeter](#-teste-rodando-no-jmeter)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 👀 Sobre
