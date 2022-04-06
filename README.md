@@ -34,7 +34,7 @@ Foram utilizadas as seguintes tecnologias:
 
 ---
 
-##Como baixar o projeto 
+## Como baixar o projeto 
 
 Siga os seguintes passos para baixar o arquivo:
 
