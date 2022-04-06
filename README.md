@@ -1,3 +1,10 @@
+<h1 align="center">
+    <img 
+        src="https://i.ytimg.com/vi/1Ww5mRYmcL0/maxresdefault.jpg" 
+    >
+    </img>
+</h1>
+
 # Indice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
